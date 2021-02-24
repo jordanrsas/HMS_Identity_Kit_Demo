@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools" tools:locale="es">
+    <string name="app_name">Identity Demo</string>
+    <string name="show_address_desc">Mostrar dirección del usuario</string>
+    <string name="query_address_button_desc">Obtener direcciones Huawei del usuario</string>
+    <string name="demo_introduction">Introducción a la demostración\n\n\nEsta demostración simula una aplicación de terceros que llama a la API del Identity Service de Huawei para obtener información sobre la dirección del usuario.\n\nEl usuario hace clic en el botón Obtener dirección de usuario de Huawei para ingresar a la interfaz de selección de dirección. selecciona una dirección específica. Después de hacer clic en Aceptar, el nombre de usuario, el número de teléfono y la información de la dirección se muestran en la interfaz.</string>
+    <string name="demo_guide">Introduccion al uso del Demo</string>
+    <string name="user_cancel_share_address">El usuario cancela el uso compartido de direcciones</string>
+    <string name="network_not_available">La red no está disponible. Verifique el estado de la red</string>
+    <string name="country_not_supported_identity">El Identity Service no es compatible con la configuración regional actual</string>
+    <string name="child_account_not_supported_identity">La cuenta de niños no admite el Identity Service</string>
+</resources>
